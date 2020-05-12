@@ -7,6 +7,12 @@ from sqlite3 import Error
 import fileinput
 import sys
 
+########################################
+#                                      #
+#   Scrap Mechanic Seed Tool - by Fx   #
+#                                      #
+########################################
+
 globalSeed = 0
 scrapMechanicDir = "\\Steam\\steamapps\\common\\Scrap Mechanic\\"
 
