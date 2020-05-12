@@ -4,6 +4,8 @@ This tool was designed for scrap mechanic v0.4.0
 So that we could easily share good map seeds by allowing others to view/modify map seeds.
 **This is untested with creative saves, tool was created for survival saves**
 
+---
+
 ### GUI
 The seed tool has a graphical user interface, so that people without any programming knowledge can easily modify save seed's!
 ![GUI](https://github.com/fxmorin/ScrapMechanicSeedTool/blob/master/img/GUI.PNG)
