@@ -8,6 +8,11 @@ So that we could easily share good map seeds by allowing others to view/modify m
 The seed tool has a graphical user interface, so that people without any programming knowledge can easily modify save seed's!
 ![GUI](https://github.com/fxmorin/ScrapMechanicSeedTool/blob/master/img/GUI.PNG)
 
+### How to use SMST
+
+Download the ScrapMechanicSeedTool.py
+Then run python3 ScrapMechanicSeedTool.py
+
 ### Options
 
 **Current Seed** - This is the seed that will be used for all other options
