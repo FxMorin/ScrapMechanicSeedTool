@@ -1,6 +1,6 @@
 # ScrapMechanicSeedTool
 
-This tool was designed for scrap mechanic v0.4.0
+This tool was designed for scrap mechanic v0.4.0+ (Tested on v0.4.0-v0.4.7)
 So that we could easily share good map seeds by allowing others to view/modify map seeds.
 **This is untested with creative saves, tool was created for survival saves**
 
