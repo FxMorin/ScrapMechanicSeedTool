@@ -27,11 +27,11 @@ Then run python3 ScrapMechanicSeedTool.py
 
 **Extract seed from save file** - This option will prompt you to choose a save file so that it can set the current seed to the seed of the map
 
-**Inject seed into save file** - This option allows you to modify the seed of a save file. I added this features since dev tools give you the /recreate command which resets the world. I believe the seed is still being used for that command, I will attempt to try a bunch of different ideas.
-
-**Modify world gen seed to be constant** - This options sets the seed of ALL newly generated worlds to the Current Seed.
+**Modify world gen seed to be constant** - This options sets the seed of ALL newly generated worlds to the Current Seed. Use this option to create a world with a specific seed!!
 
 **Reset world gen to default** - This option will reverse the effects of modifying the world gen seed, so that it will no longer be constant.
+
+**Inject seed into save file** - This option allows you to modify the seed of a save file. I added this features since dev tools give you the /recreate command which resets the world. I believe the seed is still being used for that command, I will attempt to try a bunch of different ideas. I would like to mention that I have no idea if changing the seed of the world after its already been generated works, this was added as an extra feature for testing purposes.
 
 ---
 
