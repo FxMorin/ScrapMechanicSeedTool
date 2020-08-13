@@ -24,7 +24,7 @@ jobs:
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: D:\a\ScrapMechanicSeedTool\ScrapMechanicSeedTool\dist\ScrapMechanicSeedTool\ScrapMechanicSeedTool.exe
+        file: D:\a\ScrapMechanicSeedTool\ScrapMechanicSeedTool\dist\ScrapMechanicSeedTool.exe
         asset_name: ScrapMechanicSeedTool.exe
         release_name: Automatic Release
         tag: ${{ github.ref }}
