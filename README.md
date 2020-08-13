@@ -18,6 +18,10 @@ The seed tool has a graphical user interface, so that people without any program
 
 ### How to use SMST
 
+Download the ScrapMechanicSeedTool.exe and run it
+
+or
+
 Download the ScrapMechanicSeedTool.py
 Then run python3 ScrapMechanicSeedTool.py
 
