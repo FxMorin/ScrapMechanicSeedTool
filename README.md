@@ -18,7 +18,7 @@ The seed tool has a graphical user interface, so that people without any program
 
 ### How to use SMST
 
-Download the ScrapMechanicSeedTool.exe and run it
+Download the [ScrapMechanicSeedTool.exe](https://github.com/fxmorin/ScrapMechanicSeedTool/releases/) and run it
 
 or
 
