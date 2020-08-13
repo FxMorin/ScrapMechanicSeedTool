@@ -8,7 +8,7 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
@@ -20,7 +20,6 @@ jobs:
     - name: build with pyinstaller
       run: |
         pyinstaller --noconsole --icon="icon.ico" ScrapMechanicSeedTool.py
-    - uses: actions/checkout@v2
     - name: Upload binaries to release
       uses: svenstaro/upload-release-action@v2
       with:
