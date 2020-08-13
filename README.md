@@ -1,3 +1,5 @@
+![GUI](https://github.com/fxmorin/ScrapMechanicSeedTool/blob/master/icon.ico)
+
 # ScrapMechanicSeedTool
 
 This tool was designed for scrap mechanic v0.4.0+ (Tested on v0.4.0-v0.4.7)
